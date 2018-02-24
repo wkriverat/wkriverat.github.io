@@ -9,8 +9,8 @@ de Colombia. Me gusta viajar,leer,compartir, conocer nuevas culturas. Disfruto d
 
 Me identifico con esta frase: _**".. Tenemos que pensar lo que se llama pensar, es decir sentir.." (Cortázar,J.ed.,(1963).93.In:Rayuela. Madrid, p.545)**_
 
-```{r}
-knitr::include_graphics("wkriverat.github.io/IMG-20170106-WA0056.jpg")
-```
+![](IMG-20170106-WA0056.jpg)
+
+
 
 

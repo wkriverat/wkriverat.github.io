@@ -1,5 +1,16 @@
 ---
-title: "About This Website"
+title: "Densidades"
 ---
+Se construye un grafico de densidades para la variable peso corporal de 49 alumnos de un salón de clase. 
 
-More about this website.
+```{r}
+datos<-read.csv("Libro1.csv", header=T)
+View(datos)
+datos[1:10, c('Peso')]
+```
+```{r}
+plot(density(x=datos$Peso), main="Distribución del peso corporal", xlab="Peso(Kg)", ylab="Densidad", lwd=4, col="blue")
+```
+
+
+
