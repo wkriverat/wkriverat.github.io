@@ -1,9 +1,15 @@
-name: "my-website"
+name: "Karen Rivera"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Mi pgina web"
   left:
-    - text: "Home"
+    - text: "Sobre mi"
       href: index.html
-    - text: "About"
+    - text: "Trabajos"
       href: about.html
+    - text: "Densidades"
+      href: densidades.html
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate

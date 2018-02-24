@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Trabajos"
 ---
 
-More about this website.
+-Poster: <a href="Analisis de regresion/posterito.pdf#" class="download" title="Download resume as PDF (Updated October, 2017)">Download Resume as PDF (Updated October, 2017)</a>
