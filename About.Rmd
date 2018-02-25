@@ -4,3 +4,5 @@ title: "Trabajos"
 1.Se evaluó la producción de etanol usando una cepa de _Scheffersomyces stipitis (Pichia stipitis)_ adaptada a inhibidores presentes en hidrolizados hemicelulósicos de palma africana.
 
 -Poster: <a href="posterito.pdf#" class="download" title="Descarga el poster(Noviembre 2017)"> Descarga aquí el poster (Noviembre,2017) </a>
+
+

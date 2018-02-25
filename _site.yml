@@ -6,7 +6,7 @@ navbar:
     - text: "Sobre mi"
       href: index.html
     - text: "Trabajos"
-      href: about.html
+      href: About.html
     - text: "Densidades"
       href: densidades.html
 output:
